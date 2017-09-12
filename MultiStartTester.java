@@ -9,6 +9,7 @@ import java.io.PrintWriter;
  * @author Angel A. Juan - ajuanp(@)gmail.com
  * @version 130112
  */
+//test
 public class MultiStartTester
 {
     final static String inputFolder = "inputs";
